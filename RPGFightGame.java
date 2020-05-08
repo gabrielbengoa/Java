@@ -41,7 +41,7 @@ public class RPGFightGame {
 				hpDragao -= 10;
 				break;
 			case 2:
-				System.out.println("Herói usou magia.");
+				System.out.println("Herói usou magia de gelo.");
 				hpDragao -= 35;
 				break;
 			case 3:

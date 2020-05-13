@@ -1,6 +1,9 @@
+// @author Gabriel Barros Bengoa
+
 package exercicios;
 import java.util.Scanner;
 import java.util.Random;
+
 
 public class RPGFightGame {
 	

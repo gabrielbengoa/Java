@@ -1,3 +1,5 @@
+// @author Gabriel Barros Bengoa
+
 package exercicios;
 
 import java.text.DecimalFormat;
